@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+ipykernel
+gensim
+scipy
+fasttext
+transformers
+torch
+
+tensorflow
+keras
